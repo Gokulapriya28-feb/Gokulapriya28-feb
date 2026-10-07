@@ -8,10 +8,11 @@ I recently started my LeetCode journey to improve my problem-solving and Data St
 
 ## 🚀 Coding Journey
 
-* 🧠 Learning Data Structures & Algorithms
-* 💻 Practicing coding problems on LeetCode
-* 🌱 Improving problem-solving skills step by step
-* 📚 Learning through coding and hands-on practice
+*🌱 Starting my DSA learning journey
+*💻 Recently started practicing problems on LeetCode
+*🐍 Improving my Python programming skills
+*🌐 Learning basic JavaScript and SQL
+*🚀 Building projects to gain practical experience
 
 ## 🛠️ Skills
 
