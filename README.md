@@ -8,11 +8,11 @@ I recently started my LeetCode journey to improve my problem-solving and Data St
 
 ## 🚀 Coding Journey
 
-*🌱 Starting my DSA learning journey
-*💻 Recently started practicing problems on LeetCode
-*🐍 Improving my Python programming skills
-*🌐 Learning basic JavaScript and SQL
-*🚀 Building projects to gain practical experience
+* 🌱 Starting my DSA learning journey
+* 💻 Recently started practicing problems on LeetCode
+* 🐍 Improving my Python programming skills
+* 🌐 Learning basic JavaScript and SQL
+* 🚀 Building projects to gain practical experience
 
 ## 🛠️ Skills
 
